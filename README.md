@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <p align="left">📚currently: BCA Student at Pune University</p>
+<br/>
+<p>Full-stack developer with 1 year of experience specializing in React.js and Node.js. Passionate about building scalable web applications and always eager to learn new technologies. Seeking opportunities to leverage my skills in a dynamic team environment.</p>
 
 ###
 
