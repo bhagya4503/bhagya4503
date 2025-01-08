@@ -2,7 +2,7 @@
 bhagya4503/bhagya4503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="left">Hello...</h1>
+<h1 align="left">Hello...👋🏻</h1>
 
 ###
 
@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Skills</h3>
 <p>
-Proficient in React.js, JavaScript (ES7+), and React Hooks.
-Strong understanding of HTML5, CSS3, and responsive design principles.
-Familiarity with Redux for state management and RESTful APIs.
-Strong debugging and problem-solving skills.
+Proficient in React.js, JavaScript (ES7+), and React Hooks.<br/>
+Strong understanding of HTML5, CSS3, and responsive design principles.<br/>
+Familiarity with Redux for state management and RESTful APIs.<br/>
+Strong debugging and problem-solving skills.<br/>
 </p>
 
 ###
