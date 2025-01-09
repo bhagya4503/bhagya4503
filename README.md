@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">📚currently: BCA Student at Pune University</p>
 <br/>
-<p>With over 1 year of experience in the field of React js and web development, accompanied by a bachelor's degree in Computer application. Proficient in javascript, Hooks, State and props, Fetching API ,Redux and Router. Demonstrated success in leading impactful projects and providing effective mentorship.Passionate about building scalable web applications and always eager to learn new technologies. Seeking opportunities to leverage my skills in a dynamic team environment.</p>
+<p>With over 1 year of experience in the field of React js and web development, accompanied by a bachelor's degree in Computer application. Proficient in javascript, Hooks, State and props, Fetching API ,Redux and Router. Passionate about building scalable web applications and always eager to learn new technologies. Seeking opportunities to leverage my skills in a dynamic team environment.</p>
 
 <h3 align="left">Skills</h3>
 <p>
