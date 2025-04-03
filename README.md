@@ -27,6 +27,15 @@ Strong debugging and problem-solving skills.<br/>
 </p>
 
 ###
+<h3 aligh="left">Tech Stack</h3> 
+Frontend: React</br>
+Backend: Node.js, Express</br>
+Database: MongoDB</br>
+Authentication: Clerk, JWT
+AI & Machine Learning: Gemini API, OpenAI
+Other Tools: Vite, VS Code, Git
+
+###
 
 <h2 align="left">I code with</h2>
 
