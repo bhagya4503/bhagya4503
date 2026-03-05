@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">📚currently: MCA Student at Pune University</p>
 <br/>
-<p>With over 1 year of experience in the field of React js and web development, accompanied by a bachelor's degree in Computer application. Proficient in javascript, Hooks, State and props, Fetching API ,Redux and Router. Passionate about building scalable web applications and always eager to learn new technologies. Seeking opportunities to leverage my skills in a dynamic team environment.</p>
+<p>With over 6 month's of experience in the field of React js and web development, accompanied by a bachelor's degree in Computer application. Proficient in javascript, Hooks, State and props, Fetching API  Passionate about building scalable web applications and always eager to learn new technologies. Seeking opportunities to leverage my skills in a dynamic team environment.</p>
 
 <h3 align="left">Skills</h3>
 <p>
 Proficient in React.js, JavaScript (ES7+), and React Hooks.<br/>
 Strong understanding of HTML5, CSS3, and responsive design principles.<br/>
-Familiarity with Redux for state management and RESTful APIs.<br/>
+Familiarity state management and RESTful APIs.<br/>
 Strong debugging and problem-solving skills.<br/>
 </p>
 
@@ -31,8 +31,7 @@ Strong debugging and problem-solving skills.<br/>
 Frontend: React</br>
 Backend: Node.js, Express</br>
 Database: MongoDB</br>
-Authentication: Clerk, JWT
-AI & Machine Learning: Gemini API, OpenAI </br>
+Authentication: JWT</br>
 Other Tools: Vite, VS Code, Git
 
 ###
