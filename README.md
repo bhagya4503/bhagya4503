@@ -6,7 +6,6 @@
 ### 👩‍💻 About Me
 
 - 🎓 BCA Graduate (2025)
-- 📚 Currently pursuing MCA at Pune University
 - 💻 Passionate about building modern web applications
 - 🚀 Currently learning advanced React and MERN stack
 - 🤖 Exploring automation tools like n8n and Airtable
@@ -50,22 +49,18 @@ Git | GitHub | VS Code | Vite | Postman
 
 ---
 
-### 📊 GitHub Stats
-
-![Bhagyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
-
 ---
 
 ### 🚀 Projects
 
-- Online Food Delivery App  
-- Job Portal Web Application  
+- SyntaxCore Training Institute Website
+- Mobile Repair Center Website
 - Beauty Studio Website  
 
 ---
 
 ### 🌐 Connect With Me
 
-LinkedIn: YOUR LINK  
-Portfolio: YOUR LINK  
-GitHub: YOUR LINK
+LinkedIn:https://www.linkedin.com/in/bhagyashreedivate
+Portfolio:https://personal-portfolio-iota-hazel-54.vercel.app/ 
+
