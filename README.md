@@ -62,5 +62,6 @@ Git | GitHub | VS Code | Vite | Postman
 ### 🌐 Connect With Me
 
 LinkedIn:https://www.linkedin.com/in/bhagyashreedivate
+
 Portfolio:https://personal-portfolio-iota-hazel-54.vercel.app/ 
 
