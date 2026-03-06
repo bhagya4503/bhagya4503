@@ -1,59 +1,71 @@
-<!---
-bhagya4503/bhagya4503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="left">Hello...👋🏻</h1>
+<h1 align="center">Hi 👋, I'm Bhagyashree</h1>
+<h3 align="center">React.js Developer | MERN Stack Learner</h3>
 
-###
+---
 
-<h2 align="left">My name is Bhagyashree Ambadas Divate and I'm from Pune,Maharashtra</h2>
+### 👩‍💻 About Me
 
-###
+- 🎓 BCA Graduate (2025)
+- 📚 Currently pursuing MCA at Pune University
+- 💻 Passionate about building modern web applications
+- 🚀 Currently learning advanced React and MERN stack
+- 🤖 Exploring automation tools like n8n and Airtable
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🚀 Tech Stack
 
-<p align="left">📚currently: MCA Student at Pune University</p>
-<br/>
-<p>With over 6 month's of experience in the field of React js and web development, accompanied by a bachelor's degree in Computer application. Proficient in javascript, Hooks, State and props, Fetching API  Passionate about building scalable web applications and always eager to learn new technologies. Seeking opportunities to leverage my skills in a dynamic team environment.</p>
+Frontend  
+React.js | JavaScript | HTML5 | CSS3 | Bootstrap
 
-<h3 align="left">Skills</h3>
-<p>
-Proficient in React.js, JavaScript (ES7+), and React Hooks.<br/>
-Strong understanding of HTML5, CSS3, and responsive design principles.<br/>
-Familiarity state management and RESTful APIs.<br/>
-Strong debugging and problem-solving skills.<br/>
-</p>
+Backend  
+Node.js | Express.js
 
-###
-<h3 aligh="left">🚀Tech Stack</h3> 
-Frontend: React</br>
-Backend: Node.js, Express</br>
-Database: MongoDB</br>
-Authentication: JWT</br>
-Other Tools: Vite, VS Code, Git
+Database  
+MongoDB
 
-###
+Automation  
+n8n | Airtable
 
-<h2 align="left">I code with</h2>
+Tools  
+Git | GitHub | VS Code | Vite | Postman
 
-###
+---
+
+### 🛠 Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
+
+![Bhagyashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+
+---
+
+### 🚀 Projects
+
+- Online Food Delivery App  
+- Job Portal Web Application  
+- Beauty Studio Website  
+
+---
+
+### 🌐 Connect With Me
+
+LinkedIn: YOUR LINK  
+Portfolio: YOUR LINK  
+GitHub: YOUR LINK
