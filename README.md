@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagyashree</h1>
-<h3 align="center">React.js Developer | MERN Stack Learner</h3>
+<h3 align="center">React.js Developer | MERN Stack Developer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 BCA Graduate (2025)
 - 💻 Passionate about building modern web applications
-- 🚀 Currently learning advanced React and MERN stack
+- 🚀 Currently working of Skills Exchange Platform Project using MERN Stack
 - 🤖 Exploring automation tools like n8n and Airtable
 
 ---
