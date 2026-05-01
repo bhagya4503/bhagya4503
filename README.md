@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhagyashree</h1>
+<h1 align="center">Hi 👋, I'm Bhagyashree Divate</h1>
 <h3 align="center">React.js Developer | MERN Stack Developer</h3>
 
 ---
