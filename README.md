@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 BCA Graduate (2025)
+- 🎓 BBA(CA) Graduate (2025)
 - 💻 Passionate about building modern web applications
 - 🚀 Currently working of Skills Exchange Platform Project using MERN Stack
 - 🤖 Exploring automation tools like n8n and Airtable
